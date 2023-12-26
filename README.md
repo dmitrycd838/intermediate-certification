@@ -18,3 +18,10 @@
 [“Russia”, “Denmark”, “Kazan”] → [] 
 ```
 
+## Решение:
+
+1. ***[Создал репозиторий на GitHub](https://github.com/dmitrycd838/intermediate-certification.git)***
+
+2. ***Нарисовал блок-схему алгоритма***: 
+
+![](Block-diagram.png)
