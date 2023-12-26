@@ -62,3 +62,6 @@ void PrintArray(string[] array)
 }
 ```
 
+4.***Скрин коммитов: :calling:***
+
+![](Commit.png)
